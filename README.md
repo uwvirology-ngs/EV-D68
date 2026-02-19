@@ -1,4 +1,4 @@
-# EV-D68 Nextstrain Build
+# EV-D68 Nextstrain Community Build
 
 ## About repository
 
